@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 Estudante de Ciência da Computação 4/8
+- 🌱 Estudante de Ciência da Computação 5/8
 - 😄 Ela/dela
 
 
